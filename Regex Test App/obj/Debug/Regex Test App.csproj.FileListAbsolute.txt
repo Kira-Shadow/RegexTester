@@ -1,0 +1,20 @@
+C:\Users\tonyb\source\repos\WinFormsApp1\Regex Test App\obj\Debug\Regex Test App.csprojAssemblyReference.cache
+C:\Users\tonyb\source\repos\WinFormsApp1\Regex Test App\obj\Debug\Regex_Test_App.Properties.Resources.resources
+C:\Users\tonyb\source\repos\WinFormsApp1\Regex Test App\obj\Debug\Regex Test App.csproj.GenerateResource.cache
+C:\Users\tonyb\source\repos\WinFormsApp1\Regex Test App\obj\Debug\Regex Test App.csproj.CoreCompileInputs.cache
+C:\Users\tonyb\source\repos\WinFormsApp1\Regex Test App\bin\Debug\Regex Test App.exe.config
+C:\Users\tonyb\source\repos\WinFormsApp1\Regex Test App\bin\Debug\Regex Test App.exe
+C:\Users\tonyb\source\repos\WinFormsApp1\Regex Test App\bin\Debug\Regex Test App.pdb
+C:\Users\tonyb\source\repos\WinFormsApp1\Regex Test App\obj\Debug\Regex_Test_App.Form1.resources
+C:\Users\tonyb\source\repos\WinFormsApp1\Regex Test App\obj\Debug\Regex Test App.exe
+C:\Users\tonyb\source\repos\WinFormsApp1\Regex Test App\obj\Debug\Regex Test App.pdb
+D:\Regex\Regex App Source Code\Regex Test App\bin\Debug\Regex Test App.exe.config
+D:\Regex\Regex App Source Code\Regex Test App\bin\Debug\Regex Test App.exe
+D:\Regex\Regex App Source Code\Regex Test App\bin\Debug\Regex Test App.pdb
+D:\Regex\Regex App Source Code\Regex Test App\obj\Debug\Regex Test App.csprojAssemblyReference.cache
+D:\Regex\Regex App Source Code\Regex Test App\obj\Debug\Regex_Test_App.Form1.resources
+D:\Regex\Regex App Source Code\Regex Test App\obj\Debug\Regex_Test_App.Properties.Resources.resources
+D:\Regex\Regex App Source Code\Regex Test App\obj\Debug\Regex Test App.csproj.GenerateResource.cache
+D:\Regex\Regex App Source Code\Regex Test App\obj\Debug\Regex Test App.csproj.CoreCompileInputs.cache
+D:\Regex\Regex App Source Code\Regex Test App\obj\Debug\Regex Test App.exe
+D:\Regex\Regex App Source Code\Regex Test App\obj\Debug\Regex Test App.pdb
